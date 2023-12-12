@@ -1,21 +1,18 @@
-# CONSOLE- FINANCES
+# CONSOLE FINANCES
 
-
-# REPOSITORY
-Joeviser Repository
 
 
 ## Description
 
-Create a code to analyze the financial records of a company based on a finaltial dataset.
+Create a code to analyze the financial records of a company based on a financial dataset.
 
 
 ## Installation
 Website:
-
+https://joeviser.github.io/Console-Finances/
 
 Screenshot Image:
-
+![Alt text](challenge/screenshot.jpg)
 
 
 ## Usage
@@ -42,7 +39,7 @@ Resulting analysis should look like this:
   Average Change: -2315.12
   Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
   Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
-
+ ```
 
 
 ## Credits
